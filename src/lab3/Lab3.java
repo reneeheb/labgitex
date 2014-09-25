@@ -8,8 +8,8 @@ public class Lab3 {
         System.out.println("Bonjour Renée!");
         System.out.println("Bonjour Dan!");
         
+        System.out.println("Modification 25/sep (1)");
         
-        System.out.println("Modification de projet");
         
     }
     
